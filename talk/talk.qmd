@@ -1,0 +1,20 @@
+---
+title: "Talk template" 
+author: Russ Poldrack
+institute: Stanford University
+title-slide-attributes:
+    data-background-image: ./images/stanford_background.jpg
+    data-background-opacity: "0.5"
+format:
+  revealjs: 
+    footer: "https://poldrack.github.io/talks-template/"
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: [default, rp-theme.scss]
+    height: 1080
+    width: 1920
+---
+
+## Template slide

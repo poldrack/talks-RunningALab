@@ -1,0 +1,60 @@
+---
+---
+
+## Talks about the template project
+
+[Current version of talk](talk/)
+
+### Archived releases
+
+```{python}
+
+#| echo: false
+#| output: asis
+
+# this uses the GitHub API to find a all releases for this repo
+
+from github import Github
+import pandas as pd
+import requests
+from git import Repo
+import os
+
+
+# get info about present repo
+assert os.path.exists('../.git'), 'This code must be run from within the site subdirectory'
+repo_obj = Repo('../')
+
+repo_name = repo_obj.remotes.origin.url.split(':')[1].split('.')[0]
+
+## use github api to find releases
+# Github username
+username = "poldrack"
+# pygithub object
+
+token_file = os.path.join(repo_obj.working_dir, '.token')
+if os.path.exists(token_file):
+    with open() as f:
+        token = f.read().strip()
+
+    g = Github(token)
+
+    # get that user by username
+    user = g.get_user(username)
+
+
+    repo_info = g.get_repo(repo_name)
+    releases = list(repo_info.get_releases())
+
+    site_base = 'https://poldrack.github.io/' + repo_name.split('/')[-1]
+
+    for release in releases:
+        release_date = release.published_at.strftime('%D')
+        print(f'{release_date}: {release.title}')
+        print(f"\n- [PDF]({os.path.join(site_base, 'pdfs', release.tag_name + '.pdf')}) [Full release]({release.html_url})")
+        print('\n\n')
+
+
+
+```
+

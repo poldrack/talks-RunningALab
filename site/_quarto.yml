@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Template talk"
+  navbar:
+    left:
+      - href: https://github.com/poldrack/talks-template
+        text: Github page
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
