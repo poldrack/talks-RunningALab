@@ -1,5 +1,6 @@
 # This tag should match the release tag in Github
-TAG = "Topic_Venue_month_day_year"
+TAG = "RunningALab_Frisem_4_7_2023"
+
 
 all: render-talk push-talk render-pdf push-pdf render-site push-site
 

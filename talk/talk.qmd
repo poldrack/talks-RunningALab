@@ -1,5 +1,5 @@
 ---
-title: "Talk template" 
+title: "Everything you wanted to know about running a lab but were afraid to ask" 
 author: Russ Poldrack
 institute: Stanford University
 title-slide-attributes:
@@ -7,14 +7,1126 @@ title-slide-attributes:
     data-background-opacity: "0.5"
 format:
   revealjs: 
-    footer: "https://poldrack.github.io/talks-template/"
+    footer: "https://poldrack.github.io/talks-RunningALab/"
     slide-number: true
     chalkboard: 
       buttons: false
     preview-links: auto
-    theme: [default, rp-theme.scss]
+    theme: [sky, rp-theme.scss]
     height: 1080
     width: 1920
 ---
 
-## Template slide
+## Roadmap
+
+- What is different about being a PI?
+- Managing yourself
+- Hiring, managing and mentoring others
+- Managing projects
+- Managing money
+
+##  Topics I will not discuss 
+
+:::: {.columns}
+::: {.column width="60%"}
+- Getting a PI position
+- Getting tenure
+- Publishing
+- Writing grants
+- Data management
+- Teaching
+:::
+::::
+
+::: {.absolute top=85% left=42% style="font-size: 0.6em; text-align: center;"}
+https://www.hhmi.org/science-education/programs/resources/making-right-moves
+:::
+
+
+![](./images/hhmi_cover.png){.absolute top="0%" left="55%" height="80%"}
+
+## Where my perspective comes from
+
+![](./images/timeline.png){.absolute top="10%" left="0%" height="80%"}
+
+
+## Disclaimers
+
+- I have all of the biases inherent in being a lucky survivor
+- I have only worked at large, well funded US R1 institutions with generous startup packages
+
+There are almost certainly people who violate each of the rules I will outline and still succeed in academia.
+
+
+## What's different about being PI vs. being a trainee? 
+::: {.incremental}
+- You are expected to be a leader and a manager
+    - and less of a "doer"
+- The total weight of responsibilty as well as the range of responsibilities will likely increase
+:::
+
+## What's not different:
+
+:::: {.columns}
+::: {.column width="50%"}
+- You are still you
+- You will still need mentoring
+- You constantly have to learn new things and adapt to changing realities
+:::
+::::
+
+![](./images/imposter-syndrome.png){.absolute top="0%" left="50%" height="65%"}
+
+## 
+
+::: {.absolute top=0% left=0% width="85%" style="font-size: 1.4em; text-align: center;"}
+The hardest problems you will encounter in science are psycho/social, not technical
+:::
+
+## 
+
+::: {.absolute top=0% left=0% width="85%" style="font-size: 1.4em; text-align: center;"}
+The hardest problems you will encounter in science are psycho/social, not technical
+:::
+
+
+::: {.absolute top=30% left=0% width="60%" style="font-size: 1em; text-align: left;"}
+'If you find yourself concentrating on the technology rather
+than the sociology, you're like the vaudeville character who loses
+his keys on a dark street and looks for them on the adjacent street
+because, as he explains, "The light is better there."'(DeMarco & Lister, Peopleware, 2nd ed.)
+:::
+
+![](./images/peopleware_cover.jpg){.absolute top="25%" left="65%" height="60%"}
+
+
+<!-- 
+## What's different about being a PI versus working in industry?
+
+- Comments from former trainees now working in industry:
+    - Leadership in academia is more all encompassing: A PI takes on many functions! You are the recruiter, the spokesperson, the fundraiser, the research director, etc. Leadership in industry will be multifaceted, but you will have more of a "lane"
+    - In tech, "leadership" and "people management" are not necessarily the same thing. They often move together, but don't need to. In academia these often are one-in-the-same.
+    - In industry, I've been given executive coaches and completed (literally) years of leadership training.  I don't think there's a real analogue to what I've experienced for PIs.
+-->
+
+
+## The training mismatch for academic PIs 
+
+There are many aspects of the PI's job that we are never trained for!
+
+:::: {.columns}
+::: {.column width="50%"}
+- Self-management
+    - Self-care
+    - Productivity
+- Project management and planning
+- Leadership
+:::
+::: {.column width="50%"}
+- Personnel management
+    - Hiring
+    - Mentoring
+- Financial management
+    - Budgeting and planning
+:::
+::::
+
+## Failure should always be an option {data-background-image="images/Mastering-a-Growth-Mindset-for-Mental-Health.png" data-background-opacity=".15"}
+<!-- image from https://peakviewbh.com/growth-mindset-mental-health/ -->
+
+
+:::: {.columns}
+::: {.column width="60%"}
+- No one is born with the skills to be a PI
+- Anyone can learn them
+- This requires getting outside of your comfort zone
+    - Embrace failure and learn from it
+    - Constantly seek feedback and use it to change
+:::
+::::
+
+
+
+## Managing yourself 
+
+- Self-management is essential to thriving as a PI
+    - What are your personal values and priorities?
+    - What are your psychological strengths and weaknesses?
+    - What are your boundaries or absolute no-go areas?
+    - How open are you to critical feedback and change?
+
+
+## Work/life balance {data-background-image="images/work-life_balance_from_home_1200x630.jpg" data-background-size="135%" data-background-opacity=".10"}
+
+- You can be successful without working an unreasonable amount
+    - It requires being highly organized, efficient, and disciplined
+- You have to identify your limits up front
+
+
+## Self-care {data-background-image="images/REVIVO-Movement-Meditation-3-1440x961.jpg" data-background-size="125%" data-background-opacity=".20"}
+<!-- image from https://newarkmuseumart.org/event/immersive-yoga/ -->
+
+:::: {.columns}
+::: {.column width="50%"}
+- Your mental and physical health is key to your long-term success
+  - Develop routines that will keep you healthy
+- Don't be hesitant to reach out for help
+:::
+::::
+
+##
+
+![](./images/elephant_in_the_room.jpeg){.absolute top="0%" left="10%" height="90%"}
+
+::: {.absolute top=95% left=40% style="font-size: 0.2em; text-align: center;"}
+https://chrisneumann.com/blog/the-elephant-in-the-room
+:::
+
+## The "Goldilocks Zone" of anxiety
+
+![](./images/arnsten_2012_curve.jpg){.absolute top="13%" left="5%" height="70%"}
+
+::: {.absolute top=97% left=43% style="font-size: 0.8em; text-align: center;"}
+Arnsten, 2012
+:::
+
+
+## How not to manage anxiety
+
+- Avoid the anxiety-provoking situation
+- Assume it will just go away on its own
+
+
+## Establishing a productivity workflow
+
+:::: {.columns}
+::: {.column width="40%"}
+- Your work responsibilities will be much greater as a PI than as a trainee.
+- The only way to thrive as a PI is to have a good system in place to manage them.
+- This will require a level of organizational discipline that is beyond what most of you ever needed as a trainee.
+:::
+::::
+
+![](./images/rp_trello.png){.absolute top="20%" left="45%" height="45%"}
+
+## Establishing a productivity workflow {data-background-image="images/productivit_960x0.jpg" data-background-size="100%" data-background-opacity=".20"}
+
+:::: {.columns}
+::: {.column width="70%"}
+- Ruthlessly identify and eliminate unnecessary points of friction in your workflow
+- Anything you can automate should be automated
+- Any time you find yourself doing something repeatedly, look for a technological solution to make it easier
+:::
+::::
+
+
+## Risk management 
+
+::: {.notes}
+Identify possible risks to your productivity and do whatever you can to mitigate them
+
+- Keep all important files backed up to the cloud
+- If feasible, keep a hot spare laptop that remains synced to your cloud drive
+- Make PDFs of any talks and put them in a place where you can easily access them from someone else's computer if yours dies/gets lost or stolen
+:::
+
+
+![](./images/mac-kernel-panic.jpg){.absolute top="15%" left="10%" height="70%"}
+
+
+## Task management 
+
+::: {.notes}
+  - Google doc, Evernote
+- Ultimately a full-featured project management system is probably a good idea
+  - e.g. Trello, Notion
+:::
+
+
+:::: {.columns}
+::: {.column width="50%"}
+- GTD ("Getting Things Done")
+  - You need a trusted system to organize all of your tasks
+:::
+::::
+
+![](./images/gtd_cover.jpg){.absolute top="0%" left="60%" height="80%"}
+
+![](./images/gtd_shelf.jpg){.absolute top="40%" left="5%" height="40%"}
+
+##
+
+::: {.absolute top=40% left=0% style="font-size: 1.5em; text-align: center;"}
+How many of you have more than 100 emails in your inbox right now?
+:::
+
+## Inbox Zero 
+<!--
+  - Realistically, I aim to keep my inbox to a single browser page so I can see it all at a glance
+  - After a rough week you might need to reserve a couple of hours just to clean out your inbox
+
+-->
+
+:::: {.columns}
+::: {.column width="50%"}
+- One of the worst things you can do is to use your inbox as a todo list
+- You should aim for Inbox Zero
+:::
+::::
+
+![](./images/overflowing_inbox-3070472_1920.webp){.absolute top="10%" left="55%" height="40%"}
+
+## Inbox Zero
+
+:::: {.columns}
+::: {.column width="50%"}
+- Few things feel as satisfying as an empty inbox.
+:::
+::::
+
+![](./images/overflowing_inbox-3070472_1920.webp){.absolute top="10%" left="55%" height="40%"}
+
+![](./images/empty_inbox.jpg){.absolute top="0%" left="70%" height="80%"}
+
+
+## Time management {data-background-image="images/calendar.png" data-background-size="120%" data-background-opacity=".10"}
+
+
+- You need a single trusted calendar system
+- Use a meeting scheduler
+- Set reminders for important meetings/events
+
+
+## The messy desk syndrome
+
+![](./images/messy_desk_photo-1566699270403-3f7e3f340664.jpeg){.absolute top="15%" left="16%" height="65%"}
+
+::: {.absolute top=83% left=12% style="font-size: 1.1em; text-align: center;"}
+Keep your desk clean.  Your psyche will thank you.
+:::
+
+
+## Motivational surfing
+
+:::{.notes}
+- Your motivation to do particular things will wax and wane
+- Learn how your personal motivational rhythms work, and surf them
+    - Depending on the frequency of your cycles, could require long lead times
+- Sometimes you will just have to power through and do something that you don't feel like doing
+:::
+
+
+![](./images/surf-photography-LU10-0941_ted-grambeau.jpg){.absolute top="20%" left="5%" height="65%"}
+
+
+<!--
+## Your friend the scanner
+
+:::: {.columns}
+::: {.column width="40%"}
+If you are tempted to keep any particular piece of paper, scan it and toss it into the recycling bin
+:::
+::::
+
+![](./images/ff640_left-photos_690x460.jpg){.absolute top="20%" left="40%" height="70%"}
+-->
+
+
+## \<opinion\>Things to say "no" to as a junior PI
+
+:::: {.columns}
+::: {.column width="40%"}
+- Journal editorial positions
+- Book chapters
+- Book editor positions
+- High-intensity committee memberships (e.g. IRB membership)
+- Unwanted collaborations with senior colleagues
+:::
+::::
+
+![](./images/twitter_no.png){.absolute top="20%" left="45%" height="50%"}
+
+::: {.absolute top=73% left=45% style="font-size: 0.6em; text-align: center;"}
+https://twitter.com/russpoldrack/status/1626630616040226817
+:::
+
+## \<opinion\>Things you should say "yes" to
+
+- Invitations to speak
+    - If you can't travel then ask for a virtual talk instead
+- Anything that someone at a granting agency asks you to do
+    - Especially study section or review panel membership
+
+
+## (Some) rules are made to be broken
+
+![](./images/chavez_twitter.png){.absolute top="10%" left="15%" height="50%"}
+
+
+## (Some) rules are made to be broken
+
+![](./images/chavez_twitter.png){.absolute top="10%" left="15%" height="50%"}
+
+![](./images/rp_github_profile.png){.absolute top="15%" left="0%" height="35%"}
+
+![](./images/rp_github_contribs.png){.absolute top="55%" left="5%" height="35%"}
+
+
+## Managing a lab effectively requires:
+
+- Good organization
+- Good personnel management
+- Good financial management
+
+
+## Lab documentation : Outward-facing
+
+![](./images/labguide.png){.absolute top="15%" left="40%" height="65%"}
+
+
+:::: {.columns}
+::: {.column width="40%" style="font-size: 0.9em;"}
+Show the world who your lab is.
+
+- Mission/values statements
+- Mentorship style/philosophy
+- SOPs
+:::
+::::
+
+::: {.absolute top=80% left=58% style="font-size: 0.8em; text-align: center;"}
+http://poldracklab.github.io
+:::
+
+
+## Lab documentation: Internal
+
+![](./images/onboarding.png){.absolute top="15%" left="50%" height="75%"}
+
+:::: {.columns}
+::: {.column width="40%"}
+- The Goal:
+  - DRY (Don't Repeat Yourself)
+- Onboarding documents
+- Lab resources
+
+:::
+::::
+
+## Building a lab culture {data-background-image="images/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg" data-background-size="120%" data-background-opacity=".15"}
+
+- "How do you do things around here, and why?"
+- You are responsible for establishing the culture of the lab
+- "The culture of any organization is shaped by the worst behavior the leader is willing to tolerate." (Grunert & Whitaker)
+
+## Annual climate survey
+
+![](./images/labsurvey.png){.absolute top="10%" left="10%" height="80%"}
+
+![](./images/labsurvey_result.png){.absolute top="10%" left="45%" height="80%"}
+
+## IRB compliance {style="font-size: 1.5em;"}
+
+- A culture of strict compliance is essential
+  - Never cover up a deviation; report it to the IRB immediately.
+- Organized record-keeping for all human subjects is essential
+
+
+## Hiring people: Follow the science
+
+- There is an extensive literature showing that prediction of human behavior based on in-person interviews (known as "clinical prediction") performs systematically worse than prediction based on data (known as "actuarial prediction")
+
+>  “There is no controversy in social science which shows such a large body of qualitatively diverse studies coming out so uniformly in the same direction as this one." (Meehl, 1986)
+
+##
+
+![](./images/stubborn_reliance_title.png){.absolute top="0%" left="25%" height="40%"}
+
+
+::: {.absolute top=42% left=0% style="font-size: 0.9em; text-align: left;"}
+"Perhaps the greatest technological achievement in industrial and organizational (I–O) psychology over the past 100 years is the development of decision aids (e.g., paper-and-pencil tests, structured interviews,
+mechanical combination of predictors) that substantially reduce error in the prediction of employee performance. Arguably, the greatest failure of I–O psychology has been the inability to convince employers to use them. " (Highhouse, 2008)
+:::
+
+<!--
+##  Judgmental biases that affect unstructured interviews {style="font-size: 1.25em;"}
+
+- Sensemaking
+    - An interviewer will make sense of nearly anything that the interviewee says
+- Dilution
+    - Irrelevant information can weaken the impact of predictive information
+- Dawes et al, 2013
+    - Interviewers were equally confident when the interviewee gave accurate vs. random interview responses
+    - "Although participants judged the interview to be somewhat informative, GPA predictions were actually less accurate with interviews (r = .31) than without them (r = .61)."
+
+::: {.absolute top=87% left=20% style="font-size: 0.8em; text-align: center;"}
+Dana, Dawes, & Petersen, 2013, *Judgment & Decision  Making*
+:::
+-->
+
+
+## Debiasing interviews 
+
+- Structured interviews outperform unstructured interviews
+    - "Interviews with higher degrees of structure show higher levels of validity, rater reliability, rater agreement, and less adverse impact." (US Office of Personnel Management)
+- Joint vs separate evaluation
+    - "Evaluators are more likely to base their decisions on individual performance in joint than in separate evaluation and on group stereotypes in separate than in joint evaluation"(Bohnet et al., 2016)
+
+
+
+## Effective personnel management {data-background-image="images/windows-p74ndnYWRY4-unsplash.jpg" data-background-size="120%" data-background-opacity=".10"}
+
+::: {.absolute top=30% left=0% style="font-size: 1.2em; text-align: center;"}
+The best thing you can do is to hire good people, inspire them to do good work, keep them happy, and get out of their way!
+:::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::: {.column width="50%"}
+- Delegate with trust
+- Being decisive and transparent
+- Be open to new ideas
+- Show empathy for your team members
+- Be available
+:::
+::::
+
+
+<!--
+
+## Management anti-patterns {style="font-size: 1.5em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Design pattern
+  - Good solutions to common problems
+- Anti-pattern:
+  - Commonly seen but bad solution to a common problem
+:::
+::::
+
+![](./images/design_patterns_cover.jpg){.absolute top="10%" left="60%" height="85%"}
+
+
+## The Bottleneck {style="font-size: 1.3em;"}
+:::: {.columns}
+::: {.column width="60%"}
+- The bottleneck strives for perfection, and insists on doing everything themselves.
+- Micromanagement + perfectionism leads to a manager who is severely overloaded, which causes delays.
+- Positive pattern:
+  - Delegate and trust
+  - Realize that as a leader, you will be less of a doer
+  - Your role is leading people and setting priorities
+:::
+::::
+
+
+![](./images/article-project-management-what-is-a-bottleneck-2x.webp){.absolute top="20%" left="60%" height="40%"}
+
+
+::: {.absolute top=98% left=10% style="font-size: 0.6em; text-align: center;"}
+https://leaddev.com/leadership-skills/five-management-anti-patterns-and-why-they-happen
+:::
+
+## The Sphinx {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- The team never knows that their manager will do.
+- Lack of transparency in decisions leads to a lack of psychological safety and trust.
+- Positive pattern:
+  - Be transparent about decision making
+  - Be "obsessively fair" to all members of your team
+:::
+::::
+
+
+::: {.absolute top=98% left=10% style="font-size: 0.6em; text-align: center;"}
+https://leaddev.com/leadership-skills/five-management-anti-patterns-and-why-they-happen
+:::
+
+
+## The Crap Funnel {style="font-size: 1.5em;"}
+:::: {.columns}
+::: {.column width="50%"}
+- The crap funnel directs all of their stress and drama right at their team members.
+- Positive pattern
+  - The best managers are crap umbrellas, sheilding their team from drama.  
+:::
+::::
+
+::: {.absolute top=15% left=50% style="font-size: 1.1em; text-align: center;"}
+"Being the umbrella will be the most unappreciated, and unnoticed, thing that you’ll do as a manager. When you’re doing it right, your employees don’t notice anything at all— they just notice that they enjoy their jobs more."
+:::
+
+::: {.absolute top=80% left=50% style="font-size: 0.6em; text-align: center;"}
+http://www.kevgibbs.com/2011/08/3-suggestions-for-engineering-managers
+:::
+
+::: {.absolute top=98% left=10% style="font-size: 0.6em; text-align: center;"}
+https://leaddev.com/leadership-skills/five-management-anti-patterns-and-why-they-happen
+:::
+
+
+## The Wrecking Ball {style="font-size: 1.5em;"}
+:::: {.columns}
+::: {.column width="50%"}
+- Major decisions without input from the team lead to low team morale.
+- Positive pattern:
+  - Trust and listen to your team
+  - Don't make any major decisions without their input
+  - If you go against their suggestions, explain why
+:::
+::::
+
+![](./images/POWERS-Communication-Barriers-Blog-Post-11-16-2022-1024x535.png){.absolute top="20%" left="60%" height="40%"}
+
+
+::: {.absolute top=98% left=10% style="font-size: 0.6em; text-align: center;"}
+https://leaddev.com/leadership-skills/five-management-anti-patterns-and-why-they-happen
+:::
+
+<!---
+## The Wallflower {style="font-size: 1.5em;"}
+:::: {.columns}
+::: {.column width="40%"}
+- A timid and complacent manager clings too strongly to the status quo.
+- Positive Pattern:
+:::
+::::
+
+
+::: {.absolute top=98% left=10% style="font-size: 0.6em; text-align: center;"}
+https://leaddev.com/leadership-skills/five-management-anti-patterns-and-why-they-happen
+:::
+
+
+## Difficult conversations
+:::: {.columns}
+::: {.column width="50%"}
+- On occasion you will need to have very difficult conversations
+  - Firing a staff member
+  - Confronting a lab member over their behavior
+
+- At some point a person will start crying in your office
+  - Have some tissues ready to hand them
+:::
+::::
+
+![](./images/kleenex-cube-box-facial-tissue-500x500.webp){.absolute top="20%" left="55%" height="60%"}
+
+-->
+
+## Mentoring
+
+:::: {.columns}
+::: {.column width="50%"}
+- It is essential to develop a culture of mentorship within your lab
+- Mentorship should be a two-way relationship
+    - But the power imbalance often makes it difficult for mentees to say what they really think
+- Mentoring is a skill that needs to be honed
+:::
+::::
+
+![](./images/NAS_mentoring.png){.absolute top="10%" left="55%" height="50%"}
+
+::: {.absolute top=85% left=57% style="font-size: 0.5em; text-align: center;"}
+https://nap.nationalacademies.org/resource/25568/interactive/
+:::
+
+
+##
+
+![](./images/trainees.png){.absolute top="0%" left="0%" height="85%"}
+
+::: {.absolute top=50% left=50% style="font-size: 1.5em; text-align: center;"}
+My former trainees
+:::
+
+##  The academic job market according to ChatGPT
+
+![](./images/chatgpt_academic_market1.png){.absolute top="20%" left="5%" width="85%"}
+
+##  The academic job market according to Twitter
+
+![](./images/chatgpt_academic_market_twitter.png){.absolute top="15%" left="5%" width="85%"}
+
+
+## Preparing trainees for the future
+- Our job is to train people for interesting and fulfilling careers
+  - We don't "lose" people to industry, we "gift" them
+- We should help trainees to develop broad skills
+    - Computing
+    - Data science
+    - Personnel management
+
+
+## When people leave
+
+:::{.notes}
+    - Let them take any ideas that they developed in the lab with them, and don't compete with them
+    - Ask for coauthorship on any work they did in the lab, but set them free after that
+:::
+
+- Academia is a naturally itinerant business
+- Be as generous as possible to your trainees when they leave
+- Your trainees' success will shine back on you
+
+
+
+## Managing projects: The reality
+
+![](./images/fast_good_cheap.png){.absolute top="10%" left="0%" height="75%"}
+
+::: {.absolute top=88% left=0% style="font-size: 0.6em; text-align: center;"}
+https://medium.com/swlh/the-big-lie-of-good-fast-cheap-fb8905818250
+:::
+
+
+## Managing projects: The reality
+
+![](./images/fast_good_cheap.png){.absolute top="10%" left="0%" height="75%"}
+
+::: {.absolute top=88% left=0% style="font-size: 0.6em; text-align: center;"}
+https://medium.com/swlh/the-big-lie-of-good-fast-cheap-fb8905818250
+:::
+
+::: {.absolute top=20% left=60% width=40% style="font-size: 1em; text-align: center;"}
+- The speed-accuracy tradeoff is an iron law of human behavior
+    - Holding resources constant, going faster will necessarily reduce accuracy
+:::
+
+
+## The planning fallacy  {data-background-image="images/MindView-Gantt_Chart.png" data-background-size="120%" data-background-opacity=".10"}
+
+- People tend "to underestimate the time required to complete a project, even when they have considerable experience of past failures to live up to planned schedules." (Kahneman & Tversky, 1979)
+    - We form an initial optimistic estimate and fail to incorporate knowledge about past problems
+    - Memory for the duration of past events is systematically underestimated (Roy et al., 2005)
+
+<!-- 
+## Even professionals succumb to the planning fallacy
+
+- Standish Group report on IT project success
+  - 32% of all projects succeeded (delivered on time, on budget, with required features and functions)
+  - 44% were challenged (late, over budget, and/or with less than the required features and functions)
+  - 24% failed (cancelled prior to completion or delivered and never used).
+  - Average cost overrun: 54%
+  - Average time overrun: 79%
+  - "Projects over $10 million only have a 2% chance of coming in on time and on budget"
+-->
+
+
+## Avoid premature optimization
+
+![](./images/knuth.webp){.absolute top="16%" left="8%" height="60%"}
+
+::: {.absolute top=80% left=13% style="font-size: 1em; text-align: center;"}
+Donald Knuth
+:::
+
+
+::: {.absolute top=20% left=45% width=55% style="font-size: 1.2em; text-align: left;"}
+"The real problem is that programmers have spent
+far too much time worrying about efficiency in the
+wrong places and at the wrong times; *premature
+optimization is the root of all evil* (or at least
+most of it) in programming.""
+:::
+
+## Agile project management {style="font-size: 1.2em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Reaction to traditional project management approaches ("waterfall" planning)
+:::
+::::
+
+![](./images/agile.png){.absolute top="25%" left="5%" height="60%"}
+
+::: {.absolute top=90% left=0% width=45% style="font-size: .5em; text-align: center;"}
+https://agilemanifesto.org/
+:::
+
+
+## Agile project management {style="font-size: 1.2em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Reaction to traditional project management approaches ("waterfall" planning)
+:::
+::: {.column width="50%"}
+- Principles of agile management for a scientific lab (West, 2018)
+    - Individuals and interactions over processes and tools
+    - Seeking improvements over sustaining practices
+    - Collaboration over competition
+    - Responding to change over following a plan
+:::
+::::
+
+![](./images/agile.png){.absolute top="25%" left="5%" height="60%"}
+
+::: {.absolute top=90% left=0% width=45% style="font-size: .5em; text-align: center;"}
+https://agilemanifesto.org/
+:::
+
+::: {.absolute top=90% left=50% width=50% style="font-size: .4em; text-align: center;"}
+https://www.agilealliance.org/resources/experience-reports/reinventing-research-agile-in-the-academic-laboratory/
+:::
+
+
+## Managing finances  {style="font-size: 1.5em;"}
+
+- Managing money is one of the most stressful aspects of being a PI
+  - Your career and your employee's paychecks lie in the balance
+- Overspending is an obvious problem
+  - But underspending on grants can be almost as bad
+- PI's rarely have the financial management resources that are available in business
+    - It can be very difficult to get actionable insight into one's financial situation
+
+
+## Poldracklab budget, 2022
+
+:::: {.columns}
+::: {.column width="50%"}
+- 3 research scientists
+- 4 software engineers
+- 5 postdocs
+- 5 graduate students
+- 2-3 research coordinators
+- 2 part-time contractors
+:::
+::::
+
+<!-- 4 finance staff shared by 34 faculty
+-->
+
+
+![](./images/poldracklab_budget.png){.absolute top="0%" left="60%" height="100%"}
+
+##
+
+::: {.absolute top=20% left=0% style="font-size: 1.5em; text-align: center;"}
+Develop a close relationship with your financial manager.  
+:::
+
+##
+
+::: {.absolute top=20% left=0% style="font-size: 1.5em; text-align: center;"}
+Develop a close relationship with your financial manager. 
+:::
+
+::: {.absolute top=50% left=0% style="font-size: 1.5em; text-align: center;"}
+Keep in mind that they are probably overworked and are doing their best.
+:::
+
+## Grants  {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="60%"}
+- Your program officer is your advocate and wants you to succeed
+  - It shines a good light on them and their program
+:::
+::::
+
+## Grants  {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="60%"}
+- Your program officer is your advocate and wants you to succeed
+  - It shines a good light on them and their program
+- "It's a grant, not a contract" - Sue Corkin
+    - The work funded by the grant must address the specific aims of the grant.
+    - It is common to make changes to the specific experiments proposed in the grant.  
+    - Any major changes should be discussed with your Program Officer.
+:::
+::::
+
+![](./images/HP-MIT-Corkin-Suzanne.jpg){.absolute top="20%" left="65%" width="30%"}
+
+::: {.absolute top=60% left=63% width=33% style="font-size: 1em; text-align: center;"}
+Suzanne Corkin
+:::
+
+## Grant budgeting {style="font-size: 1.5em;"}
+
+- *Never* propose to do more than the budget can actually pay for
+- Prepare to receive less than you budgeted
+  - It has been common in recent years for NIH Institutes to fund 10% less than the proposed budget
+
+## Budget categories {style="font-size: 1.5em;"}
+
+- NIH Budget Categories:
+  - Personnel
+  - Equipment (over $5000)
+  - Travel
+  - Other direct costs (e.g. supplies and materials, MRI scanning, computing services)
+- Moving funds between categories or to a new category usually requires agency permission
+  - NIH allows funds to be moved between categories up to a limit of 25%
+
+## An example NIH Notice of Award
+
+![](./images/nga_face.png){.absolute top="15%" left="8%" height="75%"}
+
+## An example NIH Notice of Award
+
+![](./images/nga.png){.absolute top="0%" left="8%" height="90%"}
+
+## 
+
+![](./images/nga_arrow.png){.absolute top="0%" left="8%" height="90%"}
+
+::: {.absolute top=50% left=35% style="font-size: 1.3em; text-align: center;"}
+Stanford FY24 F&A Rate: 54.4%
+:::
+
+
+## Facilities and Administrative costs
+
+- AKA "indrect costs" or "overhead"
+- Meant to pay for the general resources of the university that allow research to work
+- Indirects are generally split between:
+    - the University
+    - the College
+    - the Department
+    - sometimes the PI ("Indirect Cost Recovery")
+      - Usually not at highly-funded institutions
+
+
+## Faculty salary {style="font-size: 1.5em;"}
+
+- Most "hard-money" faculty are paid for 9 months by the university
+- They can earn an additional 3 months ("summer salary") from grants or other funds (e.g. startup funds)
+- In some institutions, one can "buy out" teaching time with grant funds
+- In some cases, if one pays for effort during the academic year, the funds can be recovered as "salary savings"
+
+
+## Conclusions  {style="font-size: 1.5em;"}
+
+- Your success as a PI will largely be determined by a combination of non-intellectual factors and luck
+- The primary non-intellectual factors under your control are managing yourself and others
+- With effort and discipline, any of you can succeed and thrive as a PI
+
+##
+
+::: {.absolute top=30% left=0% style="font-size: 1.4em; text-align: center;"}
+Thanks to Poldracklab members, Ari Beller, and Tyler Bonnen for helpful comments!
+:::
+
+::: {.absolute top=60% left=42% style="font-size: 1.4em; text-align: center;"}
+Questions?
+:::
+
+<!--
+## Comments from twitter
+
+Strategic planning, setting an org chart, we setting expectations early, publication/authorship process or policy. Reminding them everything will take longer than it should.
+
+
+
+shifting mentality from “doer” to “one who oversees” work
+- Ditto! I've found that keeping small pet projects, in no one's critical path, mostly scratches the doer itch. That said, small pets can grow into dangerous beasts...
+
+
+Transitions from the one doing the work to the one managing students doing the work. For new PIs without PhD students this is incredibly hard. Oh, and the first few generations of RAs you hire are so important to establish lab culture, to develop your behavioral or MRI protocols, data scoring protocols, etc.
+
+
+How to run a meeting, what notes to have/take, file naming or other workflow best practices
+
+
+How to sustainably prioritize your own development while the day to day of training, supervising, writing, and collaborating always seem to require more urgent attention
+
+Planning the division of labor - how hands on to be when breaking a larger project into tasks for others, how you do that with folks of varying experience levels, etc.
+
+IMO bringing in a good RA/lab manager, recruiting a good student, and data collection.
+
+Personnel management and navigating bureaucracy/workplace politics!
+
+I'm not a junior faculty, but still... I wish I had learned to say "no" to things that don't yield value or that overload me.  As a matter of fact, it is a skill I still don't have
+
+How to spend your startup, how to manage and mentor people/employees and navigating difficult conversations, finding the right balance between doing and delegating, and how to not forget about your family and friends (I literally had to start an Asana with my husband today)
+
+
+# Hard vs. Soft money positions
+- most college faculty get 9 months of salary paid ("hard money")
+	- can earn up to 3 months of "summer salary"
+- most medical school faculty must raise most or all of their salary from grants ("soft money")
+
+
+## academia vs industry
+
+from Ian:
+
+ In general, I agree that being a PI has similar demands as a leader/manager in tech. To such an extent that I wish PIs had more support and training in management skills! From the outside, it seems like PIs could benefit from management insights in the same way that scientists benefit from better coding practices.
+
+To your main question - potential differences between academia and industry:
+
+    Communicating context is more important in industry: A large (primary?) role of manager/leader in industry is providing context to the direct report. Done well, this enables them to work fully and independently while still aligned with goals larger than themself. On the face, this isn't that different between academia and industry. In academia, one can think of this context as "what the field cares about", or "what are important scientific problems", and a PI is responsible for sharing this context. However, the context changes more slowly in science, and it's more possible for the trainee to develop their own perspective on scientific context via their own explorations (through literature review, conferences, etc) than in industry. In industry, it is critical for the manager to provide this context.
+    Coordinating with other leaders is more important in industry: In industry, your role as leader likely means that you are responsible for coordinating with other leaders to a far greater extent than in academia. Labs are relatively independent units. That's much less the case in industry, even for relatively modularized organizations. This relates to the context point above - generally a leader is responsible for coordinating with others, synthesizing the higher level context, and communicating the important bits to enable others.
+    Leadership != management: In tech, "leadership" and "people management" are not necessarily the same thing. They often move together, but don't need to. In academia, like most industries, these often are one-in-the-same. But even there they don't need to be. Leadership can be expressed by IC/trainees.
+    Leadership in academia is more all encompassing: A PI takes on many functions! You are the recruiter, the spokesperson, the fundraiser, the research director, etc. Leadership in industry will be multifaceted, but you will have more of a "lane"
+
+
+The main thing I'd hammer home is the difference between "IC" and "management". As a PI, you are a manager. Even if you do your own work, stay in the weeds, etc, your greatest effect will be from enabling others to do more. That's a big difference! So not only are you responsible for other people's careers, but the highest leverage use of time is also likely via those other people. 
+
+
+
+
+## Acknowledgments
+
+- I have spent my faculty career at R1 institutions in the US
+  - Harvard Medical School, UCLA, Univ of Texas, and Stanford
+  - Not all elite, but all well-regarded and relatively well funded
+- I've been lucky to be at the right place at the right time (i.e. at the birth of fMRI)
+- I have been able to move relatively easily which has open up opportunities
+
+
+
+## The responsibilities of a junior PI
+- Continue developing new scientific ideas and shepherding them to completion
+- Develop an international research presence (publish papers, give talks, social media presence)
+- Mentor and support your trainees
+- Obtain funding to support your research
+- Be an effective teacher
+- Be a good community member (local, national, and international)
+
+
+## Resources
+
+https://hbr.org/2020/11/anyone-can-learn-to-be-a-better-leader
+
+https://www.nsls.org/blog/top-5-tips-to-become-a-good-leader
+
+
+
+
+## Priorities
+
+suggestion on priorities (grant, data collection, networking, etc) when first starting a lab.
+figuring out when to start applying for grants (and which ones)
+
+
+
+## What are the features of a good manager?
+
+Being a good manager involves a combination of skills, traits, and behaviors that enable you to lead your team effectively and achieve the organization's goals. Here are some essential elements of being a good manager:
+
+    Clear Communication: A good manager should be able to communicate effectively with their team members. This includes providing clear instructions, active listening, and constructive feedback.
+
+    Delegation: A good manager knows how to delegate tasks to team members according to their strengths and weaknesses. This allows the manager to focus on more strategic tasks and helps team members grow professionally.
+
+    Decision-making: A good manager should be able to make informed decisions in a timely manner. This involves analyzing data, weighing the pros and cons of different options, and considering the impact of decisions on the team and organization.
+
+    Motivation: A good manager should be able to motivate and inspire their team members to perform at their best. This involves recognizing and rewarding good performance, providing constructive feedback, and creating a positive work environment.
+
+    Accountability: A good manager should hold themselves and their team members accountable for their actions and results. This involves setting clear expectations, monitoring progress, and addressing performance issues.
+
+    Adaptability: A good manager should be able to adapt to changing circumstances and navigate challenges. This involves being flexible, creative, and willing to try new approaches.
+
+Overall, being a good manager involves having a deep understanding of your team's needs, strengths, and weaknesses, as well as the ability to create a positive and productive work environment. 
+
+According to ChatGPT:
+
+> Being a good manager involves a combination of skills, traits, and behaviors that enable you to lead your team effectively and achieve the organization's goals. Here are some essential elements of being a good manager:
+> 
+> - Clear Communication
+> - Delegation
+> - Decision-making
+> - Motivation
+> - Accountability
+> - Adaptability
+
+- As with leadership, these are all things that any of us can learn to do, but they require diligent effort and discipline.
+
+
+## Record keeping
+
+- Get in the habit of taking notes whenever you meet with a trainee or employee
+  - There will be a lot happening and you will forget things if you don't write them down
+- Especially important in any cases where there might be problems that you need to document later
+  - Such as personnel issues
+
+## Leadership vs management
+
+- A PI must be both a leader and a manager
+    - A leader motivates people and inspires them with a sense of agency around a set of shared goals
+    - A manager provides people with the resources they need to do their work and helps keep the work on track
+
+
+## What are the features of a good leader?
+
+:::: {.columns}
+::: {.column width="50%"}
+According to ChatGPT:
+
+> The essence of being a good leader is to inspire and empower others towards a common goal, while exhibiting empathy, integrity, and effective communication skills.
+:::
+::: {.column width="50%"}
+
+- Inspiration
+- Empowerment
+- Empathy
+- Integrity
+- Effective communication
+
+- These are all within reach, but it requires hard work and a deep commitment to getting better.
+:::
+::::
+
+
+## Strategic leadership
+
+- What are your goals?
+- What are your strengths and how can you build upon them?
+- What are the biggest opportunities and threats to your success?
+
+
+
+## Strategic planning: SWOT analysis
+
+:::: {.columns}
+::: {.column width="25%"}
+**Strengths**
+
+- What do you and your group do particularly well?
+- What internal resources do you have (e.g. people, methods)?
+
+:::
+::: {.column width="25%"}
+**Weaknesses**
+
+- What do you and your group lack?
+- What limitations do you have (e.g. resources, personnel) that limit your success?
+
+:::
+::: {.column width="25%"}
+**Opportunities**
+
+- 
+
+:::
+::: {.column width="25%"}
+**Threats**
+
+- What external factors could impact your success?
+  - e.g. changes in funding landscape, move to new methods
+:::
+::::
+
+## Operational leadership
+
+- What are the things you need to do in order to best acheive our goals?
+
+## Technical leadership
+
+- How can you do our work as effectively and efficiently as possible?
+
+-->

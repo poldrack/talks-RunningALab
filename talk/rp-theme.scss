@@ -2,37 +2,43 @@
 /*-- scss:defaults --*/
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Fira+Mono:400,700);
+// @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+// @import url(https://fonts.googleapis.com/css?family=Fira+Mono:400,700);
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
 
 // fonts
-// $font-family-sans-serif: "Lato", sans-serif !default;
+$font-family-sans-serif: "Source Sans Pro", sans-serif !default;
 // $font-family-serif: "Lato", serif !default;
-$font-family-monospace: "Fira Mono", monospace !default;
+// $font-family-monospace: "Fira Mono", monospace !default;
 
-$font-family-sans-serif: 'Manrope', sans-serif;
-$presentation-heading-font: 'IBM Plex Serif', serif;
+// $font-family-sans-serif: 'Manrope', sans-serif;
+// $presentation-heading-font: 'IBM Plex Serif', serif;
+$presentation-heading-font: 'Source Sans Pro', sans-serif;
+$presentation-heading-letter-spacing: 1.5em !important;
+// override negative spacing from sky theme
+$headingLetterSpacing: 0em;
+$headingFont: 'Source Sans Pro', sans-serif;
+$presentation-heading-text-transform: none !important;
 
 // colors
-$body-bg: #fff !default;
-$body-color: #000 !default;
-$link-color: #00008b !default;
-$code-block-bg: #f2f2f2;
-$code-block-font-size: 0.7em;
+
 
 $presentation-font-smaller: 0.7rem;
 
 /*-- scss:rules --*/
-//.reveal .slides section,
-//.reveal .slides section>section {
-//	font-size: 1.25em;
-//}
+.title {
+  font-size: 80px !important;
+}
+
+.reveal .slides section,
+.reveal .slides section>section {
+	font-size: 1.5em;
+}
 
 h1 {
-  font-family: "Fira Mono";
   font-size: 24px;
 }
 
