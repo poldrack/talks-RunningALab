@@ -25,25 +25,26 @@ format:
 - Managing projects
 - Managing money
 
-##  Topics I will not discuss 
+##  OK, not quite "everything"
 
 :::: {.columns}
 ::: {.column width="60%"}
-- Getting a PI position
-- Getting tenure
-- Publishing
-- Writing grants
-- Data management
-- Teaching
+- Topics I will not discuss
+  - Getting a PI position
+  - Getting tenure
+  - Publishing
+  - Writing grants
+  - Data management
+  - Teaching
 :::
 ::::
 
-::: {.absolute top=85% left=42% style="font-size: 0.6em; text-align: center;"}
+::: {.absolute top=85% left=50% style="font-size: 0.6em; text-align: center;"}
 https://www.hhmi.org/science-education/programs/resources/making-right-moves
 :::
 
 
-![](./images/hhmi_cover.png){.absolute top="0%" left="55%" height="80%"}
+![](./images/hhmi_cover.png){.absolute top="0%" left="60%" height="70%"}
 
 ## Where my perspective comes from
 
@@ -186,7 +187,7 @@ https://chrisneumann.com/blog/the-elephant-in-the-room
 
 ![](./images/arnsten_2012_curve.jpg){.absolute top="13%" left="5%" height="70%"}
 
-::: {.absolute top=97% left=43% style="font-size: 0.8em; text-align: center;"}
+::: {.absolute top=97% left=40% style="font-size: 0.8em; text-align: center;"}
 Arnsten, 2012
 :::
 
@@ -479,6 +480,131 @@ Dana, Dawes, & Petersen, 2013, *Judgment & Decision  Making*
 ::: {.absolute top=30% left=0% style="font-size: 1.2em; text-align: center;"}
 The best thing you can do is to hire good people, inspire them to do good work, keep them happy, and get out of their way!
 :::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::: {.column width="50%"}
+- Delegate with trust
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::: {.column width="50%"}
+- Delegate with trust
+- Being decisive and transparent
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::: {.column width="50%"}
+- Delegate with trust
+- Being decisive and transparent
+- Be open to new ideas
+:::
+::::
+
+
+## Behaviors of a good manager {style="font-size: 1.3em;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+- Lead by example
+- Follow through on your promises
+- Listen.
+- Be sensitive to signs of problems
+- Recognize the contributions of team members
+:::
+::: {.column width="50%"}
+- Delegate with trust
+- Being decisive and transparent
+- Be open to new ideas
+- Show empathy for your team members
+:::
+::::
 
 
 ## Behaviors of a good manager {style="font-size: 1.3em;"}
