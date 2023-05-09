@@ -1,5 +1,5 @@
 # This tag should match the release tag in Github
-TAG = "RunningALab_Frisem_4_7_2023"
+TAG = "RunningALab_Colorado_5_17_2023"
 
 
 all: render-talk push-talk render-pdf push-pdf render-site push-site

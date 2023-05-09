@@ -778,6 +778,7 @@ https://nap.nationalacademies.org/resource/25568/interactive/
 My former trainees
 :::
 
+<!--
 ##  The academic job market according to ChatGPT
 
 ![](./images/chatgpt_academic_market1.png){.absolute top="20%" left="5%" width="85%"}
@@ -786,6 +787,7 @@ My former trainees
 
 ![](./images/chatgpt_academic_market_twitter.png){.absolute top="15%" left="5%" width="85%"}
 
+-->
 
 ## Preparing trainees for the future
 - Our job is to train people for interesting and fulfilling careers
@@ -988,6 +990,7 @@ Suzanne Corkin
 - Prepare to receive less than you budgeted
   - It has been common in recent years for NIH Institutes to fund 10% less than the proposed budget
 
+<!--
 ## Budget categories {style="font-size: 1.5em;"}
 
 - NIH Budget Categories:
@@ -1033,6 +1036,8 @@ Stanford FY24 F&A Rate: 54.4%
 - They can earn an additional 3 months ("summer salary") from grants or other funds (e.g. startup funds)
 - In some institutions, one can "buy out" teaching time with grant funds
 - In some cases, if one pays for effort during the academic year, the funds can be recovered as "salary savings"
+
+-->
 
 
 ## Conclusions  {style="font-size: 1.5em;"}

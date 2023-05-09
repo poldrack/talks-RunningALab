@@ -364,20 +364,6 @@
     "text": "My former trainees"
   },
   {
-    "objectID": "talk.html#the-academic-job-market-according-to-chatgpt",
-    "href": "talk.html#the-academic-job-market-according-to-chatgpt",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "The academic job market according to ChatGPT",
-    "text": "The academic job market according to ChatGPT"
-  },
-  {
-    "objectID": "talk.html#the-academic-job-market-according-to-twitter",
-    "href": "talk.html#the-academic-job-market-according-to-twitter",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "The academic job market according to Twitter",
-    "text": "The academic job market according to Twitter"
-  },
-  {
     "objectID": "talk.html#preparing-trainees-for-the-future",
     "href": "talk.html#preparing-trainees-for-the-future",
     "title": "Everything you wanted to know about running a lab but were afraid to ask",
@@ -483,48 +469,6 @@
     "text": "Grant budgeting\n\nNever propose to do more than the budget can actually pay for\nPrepare to receive less than you budgeted\n\nIt has been common in recent years for NIH Institutes to fund 10% less than the proposed budget"
   },
   {
-    "objectID": "talk.html#budget-categories",
-    "href": "talk.html#budget-categories",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "Budget categories",
-    "text": "Budget categories\n\nNIH Budget Categories:\n\nPersonnel\nEquipment (over $5000)\nTravel\nOther direct costs (e.g. supplies and materials, MRI scanning, computing services)\n\nMoving funds between categories or to a new category usually requires agency permission\n\nNIH allows funds to be moved between categories up to a limit of 25%"
-  },
-  {
-    "objectID": "talk.html#an-example-nih-notice-of-award",
-    "href": "talk.html#an-example-nih-notice-of-award",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "An example NIH Notice of Award",
-    "text": "An example NIH Notice of Award"
-  },
-  {
-    "objectID": "talk.html#an-example-nih-notice-of-award-1",
-    "href": "talk.html#an-example-nih-notice-of-award-1",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "An example NIH Notice of Award",
-    "text": "An example NIH Notice of Award"
-  },
-  {
-    "objectID": "talk.html#section-8",
-    "href": "talk.html#section-8",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "",
-    "text": "Stanford FY24 F&A Rate: 54.4%"
-  },
-  {
-    "objectID": "talk.html#facilities-and-administrative-costs",
-    "href": "talk.html#facilities-and-administrative-costs",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "Facilities and Administrative costs",
-    "text": "Facilities and Administrative costs\n\nAKA “indrect costs” or “overhead”\nMeant to pay for the general resources of the university that allow research to work\nIndirects are generally split between:\n\nthe University\nthe College\nthe Department\nsometimes the PI (“Indirect Cost Recovery”)\n\nUsually not at highly-funded institutions"
-  },
-  {
-    "objectID": "talk.html#faculty-salary",
-    "href": "talk.html#faculty-salary",
-    "title": "Everything you wanted to know about running a lab but were afraid to ask",
-    "section": "Faculty salary",
-    "text": "Faculty salary\n\nMost “hard-money” faculty are paid for 9 months by the university\nThey can earn an additional 3 months (“summer salary”) from grants or other funds (e.g. startup funds)\nIn some institutions, one can “buy out” teaching time with grant funds\nIn some cases, if one pays for effort during the academic year, the funds can be recovered as “salary savings”"
-  },
-  {
     "objectID": "talk.html#conclusions",
     "href": "talk.html#conclusions",
     "title": "Everything you wanted to know about running a lab but were afraid to ask",
@@ -532,8 +476,8 @@
     "text": "Conclusions\n\nYour success as a PI will largely be determined by a combination of non-intellectual factors and luck\nThe primary non-intellectual factors under your control are managing yourself and others\nWith effort and discipline, any of you can succeed and thrive as a PI"
   },
   {
-    "objectID": "talk.html#section-9",
-    "href": "talk.html#section-9",
+    "objectID": "talk.html#section-8",
+    "href": "talk.html#section-8",
     "title": "Everything you wanted to know about running a lab but were afraid to ask",
     "section": "",
     "text": "Thanks to Poldracklab members, Ari Beller, and Tyler Bonnen for helpful comments!\n\n\nQuestions?\n\n\n\n\n\nhttps://poldrack.github.io/talks-RunningALab/"
