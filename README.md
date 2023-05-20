@@ -4,6 +4,9 @@ This is a talk template for Markdown-based presentations using Quarto.
 
 NOTE:  If you are not Russ Poldrack then you should first fork this repo and modify the files to replace my name and information with your own!
 
+A recording of this talk, presented on  May 17th 2023, is available [here](https://www.dropbox.com/s/ads02aipu7idaj6/Poldrack_HowToRunALab_2023_05_17.mp4?dl=0 "Talk Recording"){target="_blank"}
+
+
 ### Single Talk in its Own Repo (STOR) Template
 
 This repository is built around the "Single talk in its Own Repo" (STOR) model.  Many researchers will give the same talk repeatedly over time, making changes with each presentation.  The STOR model maintains a single repository for that talk, with the main branch representing the current version of the talk.  
